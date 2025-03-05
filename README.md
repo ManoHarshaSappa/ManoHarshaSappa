@@ -1,17 +1,71 @@
-### Hi there 👋
+# 👋 Hi, I'm Mano Harsha Sappa!
 
+🚀 **Data Analytics Graduate Student | Machine Learning Enthusiast | Python & SQL Developer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sappa.manu/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harsha_smh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contactmanoharshasappa/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://studio.youtube.com/channel/UC2wnDqSxlzUNxWsBre6R-NQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sappamanoharsha@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManoHarshaSappa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManoHarshaSappa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoHarshaSappa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub! I am a **Data Analytics Engineering Master's student** at **George Mason University** with expertise in **Data Science, Machine Learning, and Big Data Technologies**. My goal is to transform raw data into actionable insights that drive business value.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManoHarshaSappa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 **About Me**
+- 🎓 **Master’s in Data Analytics Engineering** (George Mason University)
+- 🔍 Passionate about **Data Science, AI, MLOps, and Business Intelligence**
+- 💡 Skilled in **Python, SQL, Tableau, Power BI, Machine Learning, and Data Engineering**
+- 📊 Strong background in **Data Cleaning, EDA, Predictive Analytics, and Cloud Computing**
+- 🤖 Working on **AI-powered Chatbots, NLP models, and Big Data solutions**
+
+---
+
+## 🛠 **Technical Skills**
+✅ **Programming & Tools:** Python, SQL, Excel, Power BI, Tableau  
+✅ **Data Science:** Machine Learning, Predictive Modeling, Data Wrangling, Feature Engineering  
+✅ **Big Data & Cloud:** Spark, AWS, Snowflake, Google Cloud  
+✅ **ML Models:** Random Forest, XGBoost, ARIMA, LSTM, Neural Networks  
+✅ **MLOps & AI:** LangChain, FAISS, Hugging Face Embeddings, LoRA fine-tuning  
+✅ **Databases & Backend:** MySQL, PostgreSQL, MongoDB, Flask, FastAPI  
+
+---
+
+## 📌 **Featured Projects**
+### **1️⃣ Bridges at Risk: Environmental Impact Analysis**
+🔗 **GitHub Repo:** [Coastal vs. Inland Bridges](https://github.com/ManoHarshaSappa/coastal_versus_inland_environmental_impacts_on_lifespan_and_maintenance)  
+📌 **Tech Stack:** Python, ML Models (Random Forest, XGBoost, Neural Networks), K-Means  
+🔹 **Analyzed** 34,000+ bridge records to assess environmental factors affecting bridge deterioration  
+🔹 **Developed** an ensemble ML model to predict bridge lifespan for optimizing maintenance  
+
+### **2️⃣ DARIA-3o: AI-Powered Chatbot**
+🔗 **GitHub Repo:** [Chatbot for InfoTunnel](https://github.com/ManoHarshaSappa/Chatbot_for_Infotunnel)  
+📌 **Tech Stack:** LLaMA-2, Microsoft Phi-2, FAISS, Hugging Face, OpenAI Whisper  
+🔹 **Built** an AI-powered chatbot for knowledge retrieval with vector-based search  
+🔹 **Integrated** speech-to-text features and fine-tuned models for enhanced performance  
+
+---
+
+## 🎖 **Certifications**
+✅ Business Analysis Foundations – LinkedIn Learning  
+✅ Introduction to Career Skills in Data Analytics – LinkedIn Learning  
+✅ DevOps Foundations: Microservices  
+
+---
+
+## 💼 **Experience**
+### **Corizo – Data Science Intern**
+📅 **April 2023 – October 2023**  
+🔹 Developed **ML models** improving classification accuracy by 18%  
+🔹 Automated data workflows with **Power BI/Tableau**, reducing manual reporting by 50%  
+🔹 Optimized SQL queries, improving data retrieval efficiency by 35%  
+
+### **Sodexo – Student Worker (Present)**
+📅 **February 2025 – Present**  
+🔹 Engaged with diverse teams to improve **communication & problem-solving skills**  
+🔹 Managed tasks in a fast-paced environment, strengthening **adaptability & efficiency**  
+
+---
+
+## 📫 **Connect with Me**
+📩 Email: [sappamanoharsha@gmail.com](mailto:sappamanoharsha@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/contactmanoharshasappa](https://www.linkedin.com/in/contactmanoharshasappa)  
+🔗 GitHub: [github.com/ManoHarshaSappa](https://github.com/ManoHarshaSappa)  
+
+---
+
+🎯 **I'm open to collaborations, data-driven discussions, and new opportunities! Feel free to connect. 🚀**
