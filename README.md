@@ -28,9 +28,7 @@ Welcome to my GitHub! I am a **Data Analytics Engineering Master's student** at 
 ## 💼 **Experience**
 ### **Corizo – Data Science Intern**
 📅 **April 2023 – October 2023**  
-🔹 Developed **ML models** improving classification accuracy by 18%  
-🔹 Automated data workflows with **Power BI/Tableau**, reducing manual reporting by 50%  
-🔹 Optimized SQL queries, improving data retrieval efficiency by 35%  
+🔹 Developed machine learning models, automated workflows, and optimized data processing to enhance analytics efficiency.
 
 ---
 
