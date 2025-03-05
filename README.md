@@ -4,8 +4,6 @@
 
 Welcome to my GitHub! I am a **Data Analytics Engineering Master's student** at **George Mason University**. My passion lies in leveraging data science and AI to drive innovation and solve real-world challenges. I enjoy working with machine learning models, cloud technologies, and data engineering solutions to transform raw data into actionable insights.
 
----
-
 ## 🛠 **Technical Skills**
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Analysis-00A98F?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -23,14 +21,10 @@ Welcome to my GitHub! I am a **Data Analytics Engineering Master's student** at 
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
----
-
 ## 💼 **Experience**
 ### **Corizo – Data Science Intern**
 📅 **April 2023 – October 2023**  
 🔹 Developed machine learning models, automated workflows, and optimized data processing to enhance analytics efficiency.
-
----
 
 ## 📫 **Connect with Me**
 📩 Email: [sappamanoharsha@gmail.com](mailto:sappamanoharsha@gmail.com)  
